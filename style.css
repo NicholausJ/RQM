@@ -1,0 +1,31 @@
+body {
+  font-family: "Sans Serif";
+  font-size: 140%;
+  background-color: white;
+}
+
+.well {
+  font-size: 120%;
+}
+
+.btn-default, .btn-default:focus {
+  
+  background: #d3d3d3;
+  color: #800080;
+}
+
+.btn-default:hover {
+  background: #800080;
+  color: #d3d3d3;    
+}
+
+.fa-twitter, .fa-twitter:focus {
+  
+  background: #d3d3d3;
+  color: #55acee;
+}
+
+.fa-twitter:hover {
+  background: #55acee;
+  color: #d3d3d3;    
+}

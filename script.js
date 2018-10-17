@@ -76,7 +76,7 @@ var quotes = [
   {quote:"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.", author:"Henry Ford"},
   {quote:"It’s not the years in your life that count. It’s the life in your years.", author:"Abraham Lincoln"},
   {quote:"Either write something worth reading or do something worth writing.", author:"Benjamin Franklin"},
-  {quote:" Nothing is impossible, the word itself says, “I’m possible!”", author:"Audrey Hepburn"},
+  {quote:"Nothing is impossible, the word itself says, “I’m possible!”", author:"Audrey Hepburn"},
   {quote:"If you can dream it, you can achieve it.", author:"Zig Ziglar"},
   {quote:"Two roads diverged in a wood, and I took the one less traveled by, And that has made all the difference.", author:"Robert Frost"},
   {quote:"I attribute my success to this: I never gave or took any excuse.", author:"Florence Nightingale"},

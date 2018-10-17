@@ -9,9 +9,14 @@ body {
   background-size: 400% 400%;
 }
 
-h2 {
+#quote {
   color: white;
 }
+
+#author {
+  color: white;
+}
+
 
 .well {
   font-size: 120%;

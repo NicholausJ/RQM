@@ -94,5 +94,6 @@ var quotes = [
   {quote:"The most common way people give up their power is by thinking they don’t have any.", author:"Alice Walker"},
   {quote:"The mind is everything. What you think you become.", author:"Buddha"},
   {quote:"Always remember that you are absolutely unique. Just like everyone else.", author:"Margaret Mead"},
-  {quote:"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.", author:"Nikola Tesla"}
+  {quote:"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.", author:"Nikola Tesla"},
+  {quote:"Forever is composed of nows.", author:"Emily Dickinson"}
 ];

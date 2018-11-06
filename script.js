@@ -95,5 +95,6 @@ var quotes = [
   {quote:"The mind is everything. What you think you become.", author:"Buddha"},
   {quote:"Always remember that you are absolutely unique. Just like everyone else.", author:"Margaret Mead"},
   {quote:"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.", author:"Nikola Tesla"},
-  {quote:"Forever is composed of nows.", author:"Emily Dickinson"}
+  {quote:"Forever is composed of nows.", author:"Emily Dickinson"},
+  {quote:"Creativity is intelligence having fun.", author:"Albert Einstein"}
 ];

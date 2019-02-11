@@ -96,5 +96,6 @@ var quotes = [
   {quote:"Always remember that you are absolutely unique. Just like everyone else.", author:"Margaret Mead"},
   {quote:"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.", author:"Nikola Tesla"},
   {quote:"Forever is composed of nows.", author:"Emily Dickinson"},
-  {quote:"Creativity is intelligence having fun.", author:"Albert Einstein"}
+  {quote:"Creativity is intelligence having fun.", author:"Albert Einstein"},
+  {quote:"Treasure your relationships, not your possesions.", author:"Anthony J. D'Angelo"}
 ];

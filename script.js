@@ -97,5 +97,6 @@ var quotes = [
   {quote:"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.", author:"Nikola Tesla"},
   {quote:"Forever is composed of nows.", author:"Emily Dickinson"},
   {quote:"Creativity is intelligence having fun.", author:"Albert Einstein"},
-  {quote:"Treasure your relationships, not your possesions.", author:"Anthony J. D'Angelo"}
+  {quote:"Treasure your relationships, not your possesions.", author:"Anthony J. D'Angelo"},
+  {quote:"Perfect is attained by slow degrees; it requires the hand of time.", author:"Voltaire"}
 ];

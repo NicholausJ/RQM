@@ -98,5 +98,6 @@ var quotes = [
   {quote:"Forever is composed of nows.", author:"Emily Dickinson"},
   {quote:"Creativity is intelligence having fun.", author:"Albert Einstein"},
   {quote:"Treasure your relationships, not your possesions.", author:"Anthony J. D'Angelo"},
+  {quote:"All change is not growth, as all movement is not forward.", author:"Ellen Glasgow"},
   {quote:"Perfect is attained by slow degrees; it requires the hand of time.", author:"Voltaire"}
 ];
